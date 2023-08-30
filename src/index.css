@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+svg[data-testid='CheckBoxIcon'] path{
+  color: #0E7352 !important;
+}
+
+
+svg[data-testid='IndeterminateCheckBoxIcon'] path{
+  color: #0E7352 !important;
+}
+.MuiDrawer-paperAnchorLeft{
+  background-color: #901A20 !important;
+}
